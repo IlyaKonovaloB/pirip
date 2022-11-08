@@ -1,0 +1,30 @@
+.asd { 
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: white;
+  }
+  .vse{
+    display: flex;
+    justify-content: center;
+  }
+.cont{
+  margin-bottom: 100px;
+  margin-top: 50px;
+  display: flex;
+  width: 1100px;
+  height: 1100px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: rgb(255, 255, 255);
+}
+.block{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: solid;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
+  }
+
